@@ -1,12 +1,7 @@
 ## Hey there 👋 I'm Jun Yu!
 
-**I'm a Computer Science undergraduate at the National University of Singapore.** 🏫 
-
-I'm always curious and excited to learn new things!
-
-Currently working on a personal website where I hope to document my experiences and thoughts!
-
-Reach me at chuajunyu1@gmail.com
+- I'm a Computer Science undergraduate at the National University of Singapore. 🏫 
+- Reach me at chuajunyu1@gmail.com
 
 <!--
 **chuajunyu/chuajunyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
